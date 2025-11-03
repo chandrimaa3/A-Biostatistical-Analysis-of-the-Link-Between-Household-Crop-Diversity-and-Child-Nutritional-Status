@@ -1,4 +1,4 @@
-# 🍽️ Food Security & Nutritional Outcome Analysis
+# A Biostatistical Analysis of the Link Between Household Crop Diversity and Child Nutritional Status
 
 This project explores the intricate relationship between food security indicators and nutritional outcomes using statistical and machine learning techniques. The objective is to identify key determinants influencing nutritional status and to assess how food availability, accessibility, and affordability contribute to overall public health.
 
